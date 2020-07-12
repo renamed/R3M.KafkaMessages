@@ -36,7 +36,7 @@ chmod 0755 stop.sh
 ### Demais sistemas
 
 Na raiz do seu projeto, abra um _cmd_, _terminal_ ou similar.
-d
+
 Para iniciar o contêiner rodando Kafka, execute os dois comandos abaixo.
 
 ```bash
